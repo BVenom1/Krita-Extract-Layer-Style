@@ -1,6 +1,8 @@
 # Krita-Extract-Layer-Style
 
-Krita extention to extract the layer style of a paint layer to its own layer
+Krita extention to extract the layer style of a paint layer to its own layer.
+
+The actual technique is the same as TheTwo's for extracting a layer style, which they outlined [here](https://krita-artists.org/t/some-methods-of-simulating-photoshop-functions/27819).
 
 ## Installation
 
