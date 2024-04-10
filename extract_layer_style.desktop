@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=extract_layer_style
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Extract Layer Style by BVenom
+Comment=Extention to extract a layer style to its own layer.
